@@ -1,0 +1,15 @@
+C:\Users\cuz20\Desktop\КЗ\bin\Debug\net7.0\КЗ.exe
+C:\Users\cuz20\Desktop\КЗ\bin\Debug\net7.0\КЗ.deps.json
+C:\Users\cuz20\Desktop\КЗ\bin\Debug\net7.0\КЗ.runtimeconfig.json
+C:\Users\cuz20\Desktop\КЗ\bin\Debug\net7.0\КЗ.dll
+C:\Users\cuz20\Desktop\КЗ\bin\Debug\net7.0\КЗ.pdb
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.csproj.AssemblyReference.cache
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.AssemblyInfoInputs.cache
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.AssemblyInfo.cs
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.csproj.CoreCompileInputs.cache
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.dll
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\refint\КЗ.dll
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.pdb
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\КЗ.genruntimeconfig.cache
+C:\Users\cuz20\Desktop\КЗ\obj\Debug\net7.0\ref\КЗ.dll
